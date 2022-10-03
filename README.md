@@ -1,1 +1,1 @@
-Creates trading signal.
+Creates trading signals.
