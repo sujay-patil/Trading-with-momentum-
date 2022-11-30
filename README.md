@@ -1,1 +1,2 @@
 Creates trading signals.
+k
